@@ -1,0 +1,25 @@
+Get System Details like Uptime, CPU Utilization, Disk Usage , Memory Utilization
+
+
+
+
+
+Get Process of Server and create a report in CSV and HTML format
+
+
+
+
+
+Write Python Script to get data using rest-api 
+
+
+
+
+
+Write a Script to  Authenticate your github using Rest-API 
+
+
+
+
+
+Write a script to upload a file sharepoint using python
